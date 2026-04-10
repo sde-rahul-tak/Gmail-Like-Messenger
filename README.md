@@ -1,4 +1,4 @@
-# Simple Gmail Messanger System in Java
+# Simple Gmail Messenger System in Java
 
 
 
